@@ -5,7 +5,8 @@ This is a repository to store my KiCAD libraries what I ([GitHub(https://www.git
 
 ## Contents
 <!-- BEGIN:liblist -->
-(ここは自動で上書きされます)
+## コンポーネント一覧
+
 <!-- END:liblist -->
 
 ## License
