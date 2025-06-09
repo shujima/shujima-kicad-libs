@@ -7,6 +7,28 @@ This is a repository to store my KiCAD libraries what I ([GitHub](https://www.gi
 <!-- BEGIN:liblist -->
 ## コンポーネント一覧
 
+### シンボル
+- `"CYUSB3304-68LTXC"`
+- `"CYUSB3304-68LTXC_1_1"`
+- `"Display_HS35B01A"`
+- `"Display_HS35B01A_1_1"`
+- `"Ethernet-Pulse-Transformer_QG2442S"`
+- `"Ethernet-Pulse-Transformer_QG2442S_0_1"`
+- `"Ethernet-Pulse-Transformer_QG2442S_1_1"`
+- `"FUSB301TMX"`
+- `"FUSB301TMX_0_1"`
+- `"FUSB301TMX_1_1"`
+- `"GL3224-OIY04"`
+- `"GL3224-OIY04_0_1"`
+- `"GL3224-OIY04_1_1"`
+- `"GL3224-ONY04"`
+- `"GL3224-ONY04_0_1"`
+- `"GL3224-ONY04_1_1"`
+- `"RTL8156BG"`
+- `"RTL8156BG_0_1"`
+- `"RTL8156BG_1_1"`
+- `"SD_Card_Receptacle_Hirose_DM1AA-SF-PEJ`
+
 <!-- END:liblist -->
 
 ## License
