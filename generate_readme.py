@@ -12,7 +12,7 @@ def extract_symbol_names(sym_file: Path):
 
 def extract_footprint_names(mod_file: Path):
     content = mod_file.read_text(encoding="utf-8", errors="ignore")
-    return re.findall(r"\(module\s+([^\s\)]+)", content)
+    return re.findall(r"\((?:module|footprint)\s+\"?([^\s\)"]+)\"?", content)
 
 def scan_components():
     symbols = []
