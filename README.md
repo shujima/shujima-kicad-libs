@@ -1,6 +1,6 @@
 # Shujima KiCad Libraries
 
-This is a repository to store my KiCAD libraries what I ([GitHub(https://www.github.com/shujima), [X](https://www.x.com/shjima_)]) used for my private projects.
+This is a repository to store my KiCAD libraries what I ([GitHub](https://www.github.com/shujima), [X](https://www.x.com/shjma_)]) used for my private projects.
 このリポジトリは、私が自身の趣味開発のために使用しているKiCADライブラリを保存するページです。
 
 ## Contents
