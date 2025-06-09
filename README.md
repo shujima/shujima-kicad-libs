@@ -29,6 +29,12 @@ This is a repository to store my KiCAD libraries what I ([GitHub](https://www.gi
 - `"RTL8156BG_1_1"`
 - `"SD_Card_Receptacle_Hirose_DM1AA-SF-PEJ`
 
+### フットプリント
+- `CYUSB3304-68LTXC_QFN-68`
+- `Display_HS35B01A`
+- `GL3224-ONY04_QNF-48-EP(7x7`
+- `QFN-56_EP_6x6_Pitch0.35mm_RTL8156`
+- `Transformer_Ethernet_CND-tek_QG2442S`
 <!-- END:liblist -->
 
 ## License
